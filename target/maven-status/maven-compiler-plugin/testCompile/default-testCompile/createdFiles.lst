@@ -1,0 +1,3 @@
+test\UserSinkTest.class
+consumer\KafkaConsumerDemo.class
+producer\KafkaProducerDemo.class

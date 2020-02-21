@@ -1,0 +1,17 @@
+com\nbugs\table\entity\StaticExampleDO$StaticExampleDOBuilder.class
+com\nbugs\table\KafkaSourceMysqlSink.class
+com\nbugs\table\event\MsgUpdateEvent.class
+com\nbugs\table\entity\StaticUserDO.class
+com\nbugs\table\manage\RedisManage.class
+com\nbugs\table\mapper\StaticUserDOMapper.class
+com\nbugs\table\mapper\StaticExampleDOMapper.class
+com\nbugs\table\entity\StaticUserDO$StaticUserDOBuilder.class
+com\nbugs\table\mapper\StaticNodeDOMapper.class
+com\nbugs\table\util\ApplicationUtil.class
+com\nbugs\table\util\DruidDataSourceFactory.class
+com\nbugs\table\entity\StaticExampleDO.class
+com\nbugs\table\entity\StaticNodeDO$StaticNodeDOBuilder.class
+com\nbugs\table\flink\UserDOSink.class
+com\nbugs\table\util\MybatisSessionFactory.class
+com\nbugs\table\entity\StaticNodeDO.class
+com\nbugs\table\manage\MyRedisMapper.class
